@@ -1,4 +1,4 @@
-Loading Mobile [![Build Status](http://peppercode.com.br/git/passing.svg)](http://peppercode.com.br/git/loadingMobile.js)
+Loading Mobile [![Build Status](http://peppercode.com.br/git/passing.svg)](http://peppercode.com.br/git/loadingMobile/loadingMobile.js)
 =========
 This source was developed without dependencies to run on any device. Use freely and enjoy.
 
